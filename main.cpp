@@ -1,14 +1,7 @@
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std; //shhhhh
 
-int board[6][7] = {
-    0,0,0,0,0,0,0,
-    0,0,0,0,0,0,0,
-    0,0,0,0,0,0,0,
-    0,0,0,0,0,0,0,
-    0,0,0,0,0,0,0,
-    0,0,0,0,0,0,0,
-};
+int board[6][7];
 int turn = 0;
 
 void place_tile(int x){
