@@ -2,5 +2,5 @@
 sovles connect four
 
 # TODO
--make the game (COMPLETED)
+-make the game (COMPLETED).  
 -make the solver :)
